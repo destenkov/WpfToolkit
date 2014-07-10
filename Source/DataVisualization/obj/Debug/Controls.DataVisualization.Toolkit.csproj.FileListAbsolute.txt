@@ -1,0 +1,15 @@
+C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\DataVisualization\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\DataVisualization\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb
+C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\DataVisualization\bin\Debug\System.Windows.Controls.DataVisualization.Toolkit.XML
+C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\DataVisualization\bin\Debug\WPFToolkit.dll
+C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\DataVisualization\bin\Debug\WPFToolkit.pdb
+C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\DataVisualization\obj\Debug\Controls.DataVisualization.Toolkit.csprojResolveAssemblyReference.cache
+C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\DataVisualization\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\DataVisualization\obj\Debug\System.Windows.Controls.DataVisualization.Toolkit_MarkupCompile.cache
+C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\DataVisualization\obj\Debug\System.Windows.Controls.DataVisualization.Toolkit_MarkupCompile.lref
+C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\DataVisualization\obj\Debug\Themes\Generic.baml
+C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\DataVisualization\obj\Debug\System.Windows.Controls.DataVisualization.Toolkit.g.resources
+C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\DataVisualization\obj\Debug\System.Windows.Controls.DataVisualization.Properties.Resources.resources
+C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\DataVisualization\obj\Debug\Controls.DataVisualization.Toolkit.csproj.GenerateResource.Cache
+C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\DataVisualization\obj\Debug\System.Windows.Controls.DataVisualization.Toolkit.dll
+C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\DataVisualization\obj\Debug\System.Windows.Controls.DataVisualization.Toolkit.pdb

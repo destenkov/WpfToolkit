@@ -1,0 +1,3 @@
+C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\DataVisualization.Design\obj\Debug\Controls.DataVisualization.Toolkit.Design.csprojResolveAssemblyReference.cache
+C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\DataVisualization.Design\obj\Debug\System.Windows.Controls.DataVisualization.Design.Properties.Resources.resources
+C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\DataVisualization.Design\obj\Debug\Controls.DataVisualization.Toolkit.Design.csproj.GenerateResource.Cache

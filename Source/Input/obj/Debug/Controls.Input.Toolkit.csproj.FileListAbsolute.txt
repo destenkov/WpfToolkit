@@ -1,0 +1,15 @@
+C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\Input\bin\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\Input\bin\Debug\System.Windows.Controls.Input.Toolkit.pdb
+C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\Input\bin\Debug\System.Windows.Controls.Input.Toolkit.XML
+C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\Input\bin\Debug\WPFToolkit.dll
+C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\Input\bin\Debug\WPFToolkit.pdb
+C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\Input\obj\Debug\Controls.Input.Toolkit.csprojResolveAssemblyReference.cache
+C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\Input\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\Input\obj\Debug\System.Windows.Controls.Input.Toolkit_MarkupCompile.cache
+C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\Input\obj\Debug\System.Windows.Controls.Input.Toolkit_MarkupCompile.lref
+C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\Input\obj\Debug\Themes\Generic.baml
+C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\Input\obj\Debug\System.Windows.Controls.Input.Toolkit.g.resources
+C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\Input\obj\Debug\System.Windows.Controls.Properties.Resources.resources
+C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\Input\obj\Debug\Controls.Input.Toolkit.csproj.GenerateResource.Cache
+C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\Input\obj\Debug\System.Windows.Controls.Input.Toolkit.dll
+C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\Input\obj\Debug\System.Windows.Controls.Input.Toolkit.pdb
