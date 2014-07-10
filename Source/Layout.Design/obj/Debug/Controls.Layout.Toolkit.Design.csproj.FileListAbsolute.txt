@@ -1,7 +1,0 @@
-C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\bin\Debug\System.Windows.Controls.Layout.Toolkit.Design.dll
-C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\bin\Debug\System.Windows.Controls.Layout.Toolkit.Design.pdb
-C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\Layout.Design\obj\Debug\Controls.Layout.Toolkit.Design.csprojResolveAssemblyReference.cache
-C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\Layout.Design\obj\Debug\System.Windows.Controls.Layout.Design.Properties.Resources.resources
-C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\Layout.Design\obj\Debug\Controls.Layout.Toolkit.Design.csproj.GenerateResource.Cache
-C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\Layout.Design\obj\Debug\System.Windows.Controls.Layout.Toolkit.Design.dll
-C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\Layout.Design\obj\Debug\System.Windows.Controls.Layout.Toolkit.Design.pdb
