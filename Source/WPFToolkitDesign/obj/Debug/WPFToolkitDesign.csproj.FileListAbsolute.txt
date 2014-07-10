@@ -1,9 +1,0 @@
-C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\bin\Debug\WPFToolkit.Design.dll
-C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\bin\Debug\WPFToolkit.Design.pdb
-C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\WPFToolkitDesign\obj\Debug\WPFToolkitDesign.csprojResolveAssemblyReference.cache
-C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\WPFToolkitDesign\obj\Debug\WPFToolkit.Design.g.resources
-C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\WPFToolkitDesign\obj\Debug\StringTable.resources
-C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\WPFToolkitDesign\obj\Debug\Microsoft.Windows.Controls.Design.Properties.Resources.resources
-C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\WPFToolkitDesign\obj\Debug\WPFToolkitDesign.csproj.GenerateResource.Cache
-C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\WPFToolkitDesign\obj\Debug\WPFToolkit.Design.dll
-C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\WPFToolkitDesign\obj\Debug\WPFToolkit.Design.pdb
