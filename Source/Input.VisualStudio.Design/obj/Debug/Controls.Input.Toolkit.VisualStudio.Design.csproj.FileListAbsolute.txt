@@ -1,0 +1,7 @@
+C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\bin\Debug\System.Windows.Controls.Input.Toolkit.VisualStudio.Design.dll
+C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\bin\Debug\System.Windows.Controls.Input.Toolkit.VisualStudio.Design.pdb
+C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\Input.VisualStudio.Design\obj\Debug\Controls.Input.Toolkit.VisualStudio.Design.csprojResolveAssemblyReference.cache
+C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\Input.VisualStudio.Design\obj\Debug\System.Windows.Controls.Input.Design.Properties.Resources.resources
+C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\Input.VisualStudio.Design\obj\Debug\Controls.Input.Toolkit.VisualStudio.Design.csproj.GenerateResource.Cache
+C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\Input.VisualStudio.Design\obj\Debug\System.Windows.Controls.Input.Toolkit.VisualStudio.Design.dll
+C:\Users\mshmitov\Desktop\WPFToolkitBinariesAndSource\Source\Input.VisualStudio.Design\obj\Debug\System.Windows.Controls.Input.Toolkit.VisualStudio.Design.pdb
